@@ -1,9 +1,6 @@
 스킨의 명칭의 이름을 변경하였습니다.
 반드시 배틀넷 명령 인자를 수정해주세요
 
-D2R스킨:
- -mod seonhee -txt -lowend
-
 구디아2번역스킨:
  -mod seonheeLegacy -txt -lowend
 
